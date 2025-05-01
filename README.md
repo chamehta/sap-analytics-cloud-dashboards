@@ -12,7 +12,7 @@ A curated collection of interactive dashboards built using **SAP Analytics Cloud
   - Sales breakdown by category and sub-category
   - Top-performing agents and regions
   - Clear insights into units sold vs. revenue
-- **File:** [Bike Sales Analysis PDF](https://github.com/chamehta/sap-analytics-cloud-dashboards/blob/342d29c6b50e6f624faa793d9f588e57eaedd4f2/Bike%20Sales%20Analysis.pdf)
+- **File:** [Bike Sales Analysis PDF](https://github.com/chamehta/sap-analytics-cloud-dashboards/dashboards/blob/342d29c6b50e6f624faa793d9f588e57eaedd4f2/Bike%20Sales%20Analysis.pdf)
 
 ---
 
@@ -22,7 +22,7 @@ A curated collection of interactive dashboards built using **SAP Analytics Cloud
   - Average salary and employee age by region
   - Interactive filters for cities (e.g., Toronto, Brussels, Chicago)
   - Organizational hierarchy and headcount visualization
-- **File:** [HR Employee Salary (Office Hierarchy) PDF](https://github.com/chamehta/sap-analytics-cloud-dashboards/blob/342d29c6b50e6f624faa793d9f588e57eaedd4f2/HR%20Employee%20Salary%20(Office%20Hierarchy).pdf)
+- **File:** [HR Employee Salary (Office Hierarchy) PDF](https://github.com/chamehta/sap-analytics-cloud-dashboards/dashboards/blob/342d29c6b50e6f624faa793d9f588e57eaedd4f2/HR%20Employee%20Salary%20(Office%20Hierarchy).pdf)
 
 ---
 
@@ -32,7 +32,7 @@ A curated collection of interactive dashboards built using **SAP Analytics Cloud
   - Adjustable sliders for scenario planning (growth rates, costs)
   - Forecast operating and net income
   - Planning for software, consulting, and training business areas
-- **File:** [Planning for Revenues (What if Analysis) PDF](https://github.com/chamehta/sap-analytics-cloud-dashboards/blob/342d29c6b50e6f624faa793d9f588e57eaedd4f2/Planning%20for%20Revenues%20(What%20if%20Analysis).pdf)
+- **File:** [Planning for Revenues (What if Analysis) PDF](https://github.com/chamehta/sap-analytics-cloud-dashboards/dashboards/blob/342d29c6b50e6f624faa793d9f588e57eaedd4f2/Planning%20for%20Revenues%20(What%20if%20Analysis).pdf)
 
 ---
 
